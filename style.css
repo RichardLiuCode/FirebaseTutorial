@@ -6,7 +6,7 @@ body {
 
 @media (max-width: 600px) {
     body {
-        font-size: 190px;
+        font-size: 100px;
         background-color: blue;
     }
 
