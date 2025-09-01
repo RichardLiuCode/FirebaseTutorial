@@ -29,7 +29,9 @@ hr {
     background-color: white;
 }
 
-#aswertdfswertawrede ,#asdc,#asdf{
+#aswertdfswertawrede,
+#asdc,
+#asdf {
     width: 630px;
     background-color: white;
     padding: 10px;
@@ -37,4 +39,9 @@ hr {
     border-color: lightgray;
     border-width: 2px;
     border-radius: 5px;
+}
+
+#asdc,
+#asdf {
+    width: 265px;
 }
