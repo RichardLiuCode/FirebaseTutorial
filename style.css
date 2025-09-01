@@ -3,6 +3,7 @@ body {
     text-align: center;
     font-family: arial;
 }
+
 .box {
     width: 1200px;
     margin: 0 auto;
@@ -55,5 +56,9 @@ hr {
     h1,
     p {
         font-size: 70px;
+    }
+
+    pre {
+        font-size: 30px;
     }
 }
