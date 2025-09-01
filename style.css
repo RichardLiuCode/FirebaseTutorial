@@ -11,9 +11,13 @@ body {
     padding: 20px;
     margin-bottom: 15px;
     text-align: left;
-    color:darkblue;
+    color: darkblue;
 }
 
 .tutorialImageSample {
     width: 1200px;
+}
+
+#asdfgh {
+    text-align: center;
 }
