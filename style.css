@@ -21,3 +21,20 @@ body {
 #asdfgh {
     text-align: center;
 }
+
+hr {
+    width: 1200px;
+    border: none;
+    height: 1px;
+    background-color: white;
+}
+
+#aswertdfswertawrede {
+    width: 630px;
+    background-color: white;
+    padding: 10px;
+    border-style: solid;
+    border-color: lightgray;
+    border-width: 2px;
+    border-radius: 5px;
+}
