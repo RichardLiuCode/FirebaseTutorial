@@ -53,7 +53,8 @@ hr {
         background-color: blue;
     }
 
-    #aswertdfswertawrede {
+    #aswertdfswertawrede,
+    pre {
         font-size: 13px;
         width: 1150px;
     }
