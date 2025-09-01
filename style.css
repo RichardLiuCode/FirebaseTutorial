@@ -4,6 +4,13 @@ body {
     font-family: arial;
 }
 
+@media (max-width: 600px) {
+    body {
+        font-size: 90px;
+    }
+
+}
+
 .box {
     width: 1200px;
     margin: 0 auto;
